@@ -25,5 +25,5 @@ Next, a for loop was used to get each county from the county dictionary and the 
 A text file was utilized in order to create an Election Results summary using a "with open" command.
 https://github.com/Lisa-Floading/Election_Analysis/blob/main/Resources/Election_Analysis_For_Loop_Part2.png
 
-### Election-Audit Summmary 
+### Election Audit Summmary 
 This script is flexible and can be adapted for any type of election, obviously with other states another dictionary could be added to include candidates' votes and percentages there. We could also use this code in local state races such as school board elections or Clerk of Circuit Court elections. In both cases, the counties would be changed to zip codes in order to get the total votes in each zip code and the percentage of votes for each candidate. 
